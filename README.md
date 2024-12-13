@@ -1,0 +1,2 @@
+# SampahBijakBengkulu
+web
